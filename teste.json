@@ -1,0 +1,16 @@
+{
+    "idade": 38,
+    "nome": "Regis Canal Beraldi",
+    "telefone": "991333019",
+    "enderecos": [
+        {
+            "titulo": "casa",
+            "endereco": "Avenida do Anastacio, 1250"
+        },
+        {
+            "titulo": "trabalho",
+            "endereco": "Rua Pedroso, 407 SL"
+        }
+    ],
+    "profissao": "Gerente"
+}
